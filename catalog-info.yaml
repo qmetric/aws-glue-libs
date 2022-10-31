@@ -1,0 +1,13 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    github.com/project-slug: qmetric/aws-glue-libs
+  description: AWS Glue Libraries are additions and enhancements to Spark for ETL
+    operations.
+  name: aws-glue-libs
+spec:
+  lifecycle: production
+  owner: data-team-2
+  type: library
