@@ -9,5 +9,5 @@ metadata:
   name: aws-glue-libs
 spec:
   lifecycle: production
-  owner: data-team-2
+  owner: data-tooling
   type: library
